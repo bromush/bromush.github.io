@@ -2394,18 +2394,6 @@ video {
   background-color: rgba(114, 137, 218, var(--bg-opacity));
 }
 
-.bg-bromush {
-  --bg-opacity: 1;
-  background-color: #324C59;
-  background-color: rgba(50, 76, 89, var(--bg-opacity));
-}
-
-.bg-bro {
-  --bg-opacity: 1;
-  background-color: #9BCDAB;
-  background-color: rgba(155, 295, 171, var(--bg-opacity));
-}
-
 .hover\:bg-transparent:hover {
   background-color: transparent;
 }
