@@ -14249,15 +14249,10 @@ video {
   color: #9F72DA;
   color: rgba(159, 114, 218, var(--text-opacity));
 }
-.text-bromush {
+.text-xal {
   --text-opacity: 1;
   color: #b3c1ca;
   color: rgba(179, 193, 202, var(--text-opacity));
-}
-.text-bro {
-  --text-opacity: 1;
-  color: #9BCDAB;
-  color: rgba(155, 205, 171, var(--text-opacity));
 }
 .text-blurple {
   --text-opacity: 1;
