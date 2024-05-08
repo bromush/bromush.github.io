@@ -2971,11 +2971,6 @@ video {
   background-color: #9F72DA;
   background-color: rgba(159, 114, 218, var(--bg-opacity));
 }
-.hover\:bg-bromush:hover {
-  --bg-opacity: 1;
-  background-color: #9bcdab;
-  background-color: rgba(155, 205, 171, var(--bg-opacity));
-}
 .hover\:bg-green:hover {
   --bg-opacity: 1;
   background-color: #8ec6a0;
@@ -4293,18 +4288,6 @@ video {
   --border-opacity: 1;
   border-color: #7289DA;
   border-color: rgba(114, 137, 218, var(--border-opacity));
-}
-
-.border-bromush {
-  --border-opacity: 1;
-  border-color: #324C59;
-  border-color: rgba(50, 76, 89, var(--border-opacity));
-}
-
-.border-bro {
-  --border-opacity: 1;
-  border-color: #9BCDAB;
-  border-color: rgba(155, 205, 171, var(--border-opacity));
 }
 
 .hover\:border-transparent:hover {
